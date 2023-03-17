@@ -4,7 +4,6 @@
 
 - 🔭 Hoje eu trabalho como analista de suporte e desenvolvedor.
 - 🌱 estudando Java
-- 
 <div align="center">
   <a href="https://github.com/slwill10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slwill10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
