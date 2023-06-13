@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje eu trabalho como analista de suporte e desenvolvedor.
+- 🔭 Hoje eu trabalho como desenvolvedor e analista de suporte.
 - 🌱 estudando Java
 <div align="center">
   <a href="https://github.com/slwill10">
