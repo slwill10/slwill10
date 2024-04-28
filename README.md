@@ -7,9 +7,7 @@
   <a href="https://github.com/slwill10">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slwill10&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slwill10&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">   
+</div>   
 </div>
 
 
